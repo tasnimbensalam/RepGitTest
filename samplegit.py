@@ -1,2 +1,2 @@
-print("My First example for git Test")
+print("My Second example for git Test")
 
